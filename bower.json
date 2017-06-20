@@ -1,5 +1,10 @@
 {
-  "name": "purescript-purescript-compiler-backend-infrastructure",
+  "name": "purescript-purescript-compiler-backend-utilities",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rightfold/purescript-purescript-compiler-backend-utilities.git"
+  },
   "dependencies": {
     "purescript-argonaut-codecs": "^3.1.0",
     "purescript-argonaut-core": "^3.1.0",
